@@ -1,0 +1,79 @@
+﻿  monte_carlo.cpp
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(61,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(62,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(88,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(92,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(168,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(169,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(176,61): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(194,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(199,86): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(259,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(263,104): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(278,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(279,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(299,68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(309,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(311,98): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(321,27): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(328,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(339,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(340,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(362,100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(383,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(385,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(386,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(407,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(408,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(430,98): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(433,103): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(469,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(512,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(531,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(570,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(614,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(633,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(743,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(783,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(783,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(802,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(806,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(819,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(826,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(933,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(966,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(980,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(981,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(984,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(985,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(989,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1003,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1005,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1012,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1016,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1029,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1029,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1048,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1050,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1057,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1061,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1164,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1199,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1199,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1222,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1223,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1226,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1227,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1231,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1245,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1247,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1254,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1258,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1359,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brian\source\repos\bjblank2\FSMA_MC\GUM_mk3\monte_carlo.cpp(1370,7): warning C4101: 'spin_same': unreferenced local variable
+  Generating code
+  1 of 945 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GUM_mk3.vcxproj -> C:\Users\brian\source\repos\bjblank2\FSMA_MC\x64\Release\GUM_mk3.exe
